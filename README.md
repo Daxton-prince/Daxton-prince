@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Daxton-prince
+- 👋 Hi, I’m @Techby prince
 - 👀 I’m interested in Tech stuffs in web development 
 - 🌱 I’m currently learning bootstrap, python and bit of php, SQL for backend 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :on Facebook is Prince Daxton and my page is Prince Daxton web & energies 
+- 📫 How to reach me :on Facebook is Tech by prince and my page is Techbyprince 
 - ⚡ Fun fact:Am my own motivational speaker 😂😂
 
 <!---
